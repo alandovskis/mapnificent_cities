@@ -1,6 +1,6 @@
 ---
 added: '2011-06-10T14:31:18.289940'
-changed: '2020-03-10T10:42:42.542022'
+changed: '2023-10-20T01:07:00.00000'
 cityid: montreal
 cityname: Montréal
 coordinates:
@@ -8,78 +8,51 @@ coordinates:
 - 45.506828120969516
 description: ''
 gtfs:
-  agence-metropolitaine-de-transport-1174:
+  exo-trains:
     sha256: fa935ddf9adcd780b5a51584d3431b95abd3edd84d51f51926dc5851ba019bf4
-    tf_feed_id: agence-metropolitaine-de-transport/1174
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/1174/20200306/gtfs.zip
-  agence-metropolitaine-de-transport-128:
-    sha256: fa935ddf9adcd780b5a51584d3431b95abd3edd84d51f51926dc5851ba019bf4
-    tf_feed_id: agence-metropolitaine-de-transport/128
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/128/20200307/gtfs.zip
-  agence-metropolitaine-de-transport-129:
-    sha256: 08c176e13427bd818c36e89dbad0a5e68749329cd14c36b5360d65dfc059e2f1
-    tf_feed_id: agence-metropolitaine-de-transport/129
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/129/20170622/gtfs.zip
-  agence-metropolitaine-de-transport-130:
-    sha256: 3d867af86242ab1b9e0cb2674549778a082612aa75e608a069d0fd9e08a2492a
-    tf_feed_id: agence-metropolitaine-de-transport/130
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/130/20191219/gtfs.zip
-  agence-metropolitaine-de-transport-131:
-    sha256: 5ead0921c6d6a8c500404316dfbb4ef95ae27b59cca1fb6250406ec1ae3c8f38
-    tf_feed_id: agence-metropolitaine-de-transport/131
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/131/20191216/gtfs.zip
-  agence-metropolitaine-de-transport-132:
-    sha256: 43b17e98e5df876a3c3a258f6cad792a4c56a3a853e214eef5b02c8f907de9c9
-    tf_feed_id: agence-metropolitaine-de-transport/132
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/132/20200304/gtfs.zip
-  agence-metropolitaine-de-transport-133:
-    sha256: 789df93f88530b0acb88deb15cbc7cf8293629ab98fe162e4644579ce73e8991
-    tf_feed_id: agence-metropolitaine-de-transport/133
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/133/20200131/gtfs.zip
-  agence-metropolitaine-de-transport-134:
-    sha256: 3ac7fb5d39ebac1ef2b2c430d163d7ccdca870dd37d9b4817108b0ee002e8680
-    tf_feed_id: agence-metropolitaine-de-transport/134
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/134/20181127/gtfs.zip
-  agence-metropolitaine-de-transport-135:
-    sha256: c8bfae914046c8df8b734a92b9ec321e04638340929e5d4766090adcd7b7236a
-    tf_feed_id: agence-metropolitaine-de-transport/135
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/135/20200131/gtfs.zip
-  agence-metropolitaine-de-transport-136:
-    sha256: eb150bf683bf92dee240db06daa5777f58dbb12722e01f6e9485c15f3a943ad2
-    tf_feed_id: agence-metropolitaine-de-transport/136
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/136/20191216/gtfs.zip
-  agence-metropolitaine-de-transport-137:
-    sha256: a271b419944a9851aa45c8be6a20f19166b60e65b900b9a24b620019810ffb40
-    tf_feed_id: agence-metropolitaine-de-transport/137
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/137/20200107/gtfs.zip
-  agence-metropolitaine-de-transport-138:
-    sha256: 6cdf94aae18228862ec3a7afc6117299983c7a1282d6cfb29b96d025cc201700
-    tf_feed_id: agence-metropolitaine-de-transport/138
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/138/20191216/gtfs.zip
-  agence-metropolitaine-de-transport-139:
-    sha256: ea8fce72fc4b984b8bc0f44a420ce07625efce5ebd2b138d7e31f21cbd25ff69
-    tf_feed_id: agence-metropolitaine-de-transport/139
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/139/20191219/gtfs.zip
-  agence-metropolitaine-de-transport-140:
-    sha256: af28268d689ba140a6341f29dca7af53ae798481503a70a9137a582ff224145f
-    tf_feed_id: agence-metropolitaine-de-transport/140
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/140/20200215/gtfs.zip
-  agence-metropolitaine-de-transport-141:
-    sha256: f49200ac500d434f923a5c5a5877d810ff89c3da1ec151b9d450ace57bf447ba
-    tf_feed_id: agence-metropolitaine-de-transport/141
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/141/20181127/gtfs.zip
-  agence-metropolitaine-de-transport-142:
-    sha256: dd812531214d824bb14b168a40ce3597848c6b51b46a5333cb9ed1604e7527c3
-    tf_feed_id: agence-metropolitaine-de-transport/142
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/142/20200214/gtfs.zip
-  agence-metropolitaine-de-transport-143:
-    sha256: 4647b43e558ad142a69a6f2a012eb8a553f4e8ccc6137b6b13a753d05151fad7
-    tf_feed_id: agence-metropolitaine-de-transport/143
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/143/20191211/gtfs.zip
-  societe-de-transport-de-montreal-39:
-    sha256: 40480a262aa33cc88e6b0a59be3344d19f5c8acc633c3ce5ac0bdaf91e432be0
-    tf_feed_id: societe-de-transport-de-montreal/39
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/societe-de-transport-de-montreal/39/20200228/gtfs.zip
+    url: https://exo.quebec/xdata/trains/google_transit.zip
+  exo-crc:
+    sha256: de1edce704a9794e19ae491e624de99b517d3fa2ed64c7a80b80e3893d45616e
+    url: https://exo.quebec/xdata/citcrc/google_transit.zip
+  exo-hsl:
+    sha256: 022cefb8400ea377f9ccacc48647d11a20a885703f1a7b6dd74414235a87f5c0
+    url: https://exo.quebec/xdata/cithsl/google_transit.zip
+  exo-la:
+    sha256: 409cfe4067e735a6e004fae34586d0b215bb962ea563acaa77005611bfc92321 
+    url: https://exo.quebec/xdata/citla/google_transit.zip
+  exo-pi:
+    sha256: 6c4434794809ddf89ea6c99a707bbb1ad907358a5e6aa352bf91fac59dd41e3b
+    url: https://exo.quebec/xdata/citpi/google_transit.zip
+  exo-lrrs:
+    sha256: 39652e854529e0fabf7c2806e9ca3e890e8d1dfe6fcd64a48b24b2f475afd772
+    url: https://exo.quebec/xdata/lrrs/google_transit.zip
+  exo-sv:
+    sha256: 19ca1c8012e7ed33c3b19484003ad9ed99f3ed25bba301d6ea18d7b9a43848b1
+    url: https://exo.quebec/xdata/citsv/google_transit.zip
+  exo-so:
+    sha256: 567b942094aad76bd913cd080696d75e6cd3b5e52f0acf457868d6ae7e83eae4
+    url: https://exo.quebec/xdata/citso/google_transit.zip
+  exo-vr:
+    sha256: b4042abc07a6759f2421b5d0e2163af85a644aed8dd270c5e342c32193a33b80 
+    url: https://exo.quebec/xdata/citvr/google_transit.zip
+  exo-lassom:
+    sha256: 8d19c95122acde66bfb337bb086b91ec474c3c0562fdaff4ca796299c105a351
+    url: https://exo.quebec/xdata/mrclasso/google_transit.zip
+  exo-tm:
+    sha256: 960358848121ece5ea561cf8e128fb2a2366c0b80417c60fd097f5c9200c06af
+    url: https://exo.quebec/xdata/mrclm/google_transit.zip
+  exo-sj:
+    sha256: a52cdbab7c0c103da447a9bae72608bc7e12dbf7e3d154e406dccbfe6d118882
+    url: https://exo.quebec/xdata/omitsju/google_transit.zip 
+  societe-de-transport-de-montreal:
+    sha256: b8ea1baecfc5124fe3b1a3bf28e0e1a6e7c608a817772bdacf36208da90cbd7d
+    url: https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip
+  reseau-de-transport-longueuil:
+    sha256: e663c4c8851e2c636659a7c4e2dda7a96aadba7626f99829b411a8f102410c8b
+    url: https://www.rtl-longueuil.qc.ca/transit/latestfeed/RTL.zip
+  societe-de-transport-de-laval:
+    sha256: 81ae0fc36ad4a43ba4d14a16baf131e9fa8c8079c159e0587fc694a571904948
+    url: https://www.stlaval.ca/datas/opendata/GTF_STL.zip
 options:
   estimatedMaxCalculateCalls: 1207000
   maxWalkTravelTime: 10800
@@ -89,10 +62,10 @@ version: 8
 zoom: 11
 ---
 
-(c) [Agence métropolitaine de transport](http://amt.qc.ca/developpeurs/)
+(c) [Exo](https://exo.quebec/en/about/open-data) - [Terms](https://www.donneesquebec.ca/fr/licence/#cc-by)
 
 (c) [Réseau transport de Longueuil - RTL](http://www.rtl-longueuil.qc.ca/) - [Terms](http://www.rtl-longueuil.qc.ca/W1/gtfs.htm)
 
 (c) [Société de transport de Laval](http://www.stl.laval.qc.ca/)
 
-(c) [Société de transport de Montréal](http://www.stm.info/) - [Terms](http://www.stm.info/en-bref/developpeurs-licence.htm)
+(c) [Société de transport de Montréal](http://www.stm.info/) - [Terms](https://www.stm.info/en/about/developers/terms-use)
